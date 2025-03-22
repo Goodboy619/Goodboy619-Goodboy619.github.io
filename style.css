@@ -1,0 +1,131 @@
+body{
+    background-color: #141414;
+}
+
+#main{
+    background-color: #1f1f1f;
+    position: center;
+    margin: auto;
+    margin-top: 120px;
+    max-width: 380px;
+    width: 100%;
+    height: auto;
+    padding: 16px;
+    border-radius: 20px;
+    font-family: Arial;
+    font-weight: 400, 600, 700;
+}
+
+#image{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#image img{
+    width: 30%;
+    border-radius: 100px;
+}
+
+#main-text{
+    text-align: center;
+}
+
+#main-text h2{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700
+}
+
+#main-text h4{
+    color:#c5f82a;
+    font-size: 15px;
+    margin-top: -15px;
+    font-weight: 600;
+}
+
+#about{
+    text-align: center;
+}
+
+#about p{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+#links{
+    text-align: center;
+}
+
+#github a{ 
+    line-height: 50px;
+    width: 335px;
+    background-color: #333333;
+    color:#ffffff;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 150px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#github a:hover{
+    background-color: #c5f82a;
+    color: #141414;
+}
+
+#frontend a{ 
+    line-height: 50px;
+    width: 335px;
+    background-color: #333333;
+    color:#ffffff;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 120px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#frontend a:hover{
+    background-color: #c5f82a;
+    color: #141414;
+}
+
+#linkedin a{ 
+    line-height: 50px;
+    width: 335px;
+    background-color: #333333;
+    color:#ffffff;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 145px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#linkedin a:hover{
+    background-color: #c5f82a;
+    color: #141414;
+}
+
+.socials a{ 
+    line-height: 50px;
+    width: 335px;
+    background-color: #333333;
+    color:#ffffff;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 140px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.socials a:hover{
+    background-color: #c5f82a;
+    color: #141414;
+}
+
+#footer{
+    color: #ffffff;
+    font-size: 12px;
+}
