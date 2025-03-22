@@ -6,7 +6,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
@@ -20,14 +19,10 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-[screenshot](<Screenshot social-links.png>)
-
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/Goodboy619/social-links-profile/tree/main)
 - Live Site URL: [live site URL](https://goodboy619.github.io/social-links-profile/)
 
 
